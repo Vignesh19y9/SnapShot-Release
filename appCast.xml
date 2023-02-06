@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>snapshot</title>
+        <item>
+            <title>0.4</title>
+            <pubDate>Mon, 06 Feb 2023 20:27:54 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Vignesh19y9/SnapShotMac-Test/releases/download/version1.0/snapshot-Installer.dmg" length="7827608" type="application/octet-stream" sparkle:edSignature="XssTNIXepBB5SyskEPC0DNv2OU35dHN1S/efjXwvcqarQXjnWFh7UwZ+PfhISA3qWa3H0eV/GamkuOEhqsVtBg=="/>
+        </item>
+    </channel>
+</rss>
